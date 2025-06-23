@@ -57,6 +57,17 @@ cd frontend
 npm install
 npm start
 
+Feature	Status
+🔌 Backend server (Node.js + Express)	✅ Working
+🌐 MongoDB + Mongoose connection	✅ Connected
+☁️ Cloudinary image uploads	✅ Working (no 500 error now)
+📱 React Native frontend via Expo	✅ Working (Add Spot + Map + Feed)
+📍 Add Spot from mobile	✅ Adds to DB
+🗺️ View spots on map/feed	✅ Displayed
+🔍 Search functionality	✅ Implemented
+📥 API tested with mobile	✅ Working
+📦 Environment variables (.env)	✅ Loaded
+❌ No visible crashes or unhandled errors	✅ Stable
 
 
 
